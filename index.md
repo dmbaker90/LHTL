@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Learning How To Learn
+This class was particularly interesting to me because despite all my coursework I never quite figured out a learning process that worked for me.  I pummeled my way through classes with bad habits, procrastinations, and all-nighters.  Since my learning focus revolves around programming this final project is a github page with my key takeaways and other notes that I will use as a reference in the future.
 
-You can use the [editor on GitHub](https://github.com/dmbaker90/LHTL/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Key Takeaways
+* The analogies with excercise were a bit of a lightbulb moment for me.  Spaced-repetition works exactly the same for learning and memory as it does for excercise:
+  1. No weight lifter would ever wait until the last minute for a competition then attempt to spend all night weight lifting (or "Cramming") as practice and expect to win their competition the next day.
+  2. No marathon runner would ever procrastinate their practice until the last day and have any expectation of doing well in the marathon.
+* Taking breaks while working or studying is not a personal failure to study or focus.  In fact quite the opposite, it is literally part of the learning process.
+  1. It changes the mode of the brain from Focused to Diffuse, where many of the new neural pathways are formed and connected to other areas of the brain.  
+  2. It is when learning can take place, analogous to the resting time of a workout which is when the body gets stronger.
+  3. Using breaks as a reward mechanism actually enhances your ability to truly focus while studying in the focused mode.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dmbaker90/LHTL/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
