@@ -11,9 +11,9 @@ The analogies with excercise were a bit of a lightbulb moment for me.  Spaced-re
     - "Chunking" complex topics actually helps the brain learn new topics in different areas through a process called Transfer.
         - One interview with a Standford professor discussed how building an understanding of solving mathematical equations helps the brain create problem solving processes that help in all other fields as well.
     - The process involved in making a chunk is 
-        1. Deliberate Focus - possibly through the Pomodoro technique
+        1. Focused Attention - possibly through the Pomodoro technique
         2. Understanding the basic idea
-        3. Practice
+        3. Deliberate Practice - Deliberate practice is continuing to focus of the material you find hardest and is important to productive studying. 
 
 #### Breaks
 Taking breaks while working or studying is not a personal failure to study or focus.  In fact quite the opposite, it is literally part of the learning process.
@@ -34,5 +34,5 @@ Mnemonics are not just a "hack" or a cheap poor mans way to remember something, 
 5. The process to eliminate procrastination involves 4 steps: 
     - Cues: notice what it is that causes the distractions and eliminate them.  Most office these are phones, or notifications on your computer.
     - Routine: build a new plan that breaks bad cues and encourages new cues with fewer distractions.  Neurological routines are powerful.
-    - Reward: after a successful focused mode of studying, reward yourself with an appropriate sized reward.  This isn't just psychological, it's also part of the learning process to break away from the focused mode of the brain.  Consider the Pomodorow (tomato timer) technique to focus for 25 minutes, then a 5 minute break into the diffuse mode of the brain.
+    - Reward: after a successful focused mode of studying, reward yourself with an appropriate sized reward.  This isn't just psychological, it's also part of the learning process to break away from the focused mode of the brain.  Consider the Pomodoro (tomato timer) technique to focus for 25 minutes, then a 5 minute break into the diffuse mode of the brain.
     - Belief: _belief_ that the new system works reinforces the behavior that you will use it.  
